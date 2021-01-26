@@ -1,26 +1,74 @@
-1.区间和： 303(一维)		304(二维)	   1218   715
+1.Fib序列  70	746	1137	1524
 
-2.路径：最大路径和，最小路径和，路径数目
+2.区间和： 303(一维)		304(二维)	   1218   715   (a,b)到(c,d)的数和
+
+3.路径：最大路径和，最小路径和，路径数目
 62	63	64	120	174	931	
 
-3.子矩形： 85 221	304	 1277	 1727  1074  1504  
-4.正方形： 1139	Largest 1-Bordered Square	01正方形边界全为1	
-279	Perfect Squares/1388	环与非环	1187	
+4.子矩形： 85 221	304	 1277	 1727  1074  1504  
+
+5.正方形： 1139	Largest 1-Bordered Square	01正方形边界全为1	
+全为1的正方形  279	Perfect Squares  1388		1187
+
+6.由两边向中间 312	Burst Balloons	516 594 664	1024	1039	1140	1130
+
+7. 72	Edit Distance	★★★	10	44	97	115	583	I: O(m+n), S = O(mn), T = O(mn)
+			712	1187	1143	1092	718	
+      
+8. 字符串的子序列：
+115: s中包含t的子序列数目
+LCS: 1143  1092  718(最长相同子串)
+LIS: 300   1713  354(注意排序)  1048  673
+
+9.字符串decode  91	639	
+
+10.大问题转化为小问题 
+741采樱桃	486 1563	877/1406/1510
+936 打印string
+
+11.背包问题：322	Coin Change	377	416	494	1043	1049	
+			       1220	1230	1262	1269		
+
+12. 不同次的路径数  688	Knight Probability in Chessboar  576	935	898	
+
 
 139	Word Break	★★★	140	818	
 96	Unique Binary Search Trees	★★★						
 1105	Filling Bookcase Shelves	
 131	Palindrome Partitioning	★★★	89	1458	730	
-72	Edit Distance	★★★	10	44	97	115	583	
-712
 
-字符串的子序列：
-115: s中包含t的子序列数目
-LCS: 1143  1092  718(最长相同子串)
-LIS: 300   1713  354(注意排序)  1048  673
 
 交换使数组递增： 1187  801
-688	Knight Probability in Chessboar
-1728：猫鼠游戏，类似stone game两个人轮流行动
+
+1728：猫鼠游戏
 1735：n个数乘积为k的组合数
-逻辑问题： stone game
+
+
+
+
+53	Maximum Subarray	★★	152		
+
+			
+丑数问题：1210	264	263	
+股票问题：121 188 122 123 309 714 	152		
+石头问题：877 1140 1406 1510 1563 1686 1690 
+抢劫问题：198 213 337      
+跳跃问题：45 55 403 975 1306 1340 1345 1654 1696 
+
+198	House Robber	★★★	213	309	740	790	801	
+
+
+			
+96	Unique Binary Search Trees	★★★						
+1105	Filling Bookcase Shelves	★★★	
+131	Palindrome Partitioning	★★★	89	1458	730			I: O(n), S = O(2^n), T = O(2^n)
+
+
+
+
+813	Largest Sum of Averages	★★★★	1278	1335	410	956		
+1223	Dice Roll Simulation	★★★★		1547				
+546	Remove Boxes	★★★★★	1263	推箱子	1000/312/488			
+943	Find the Shortest Superstring	★★★★★	980	996	1125 368  516
+								                
+1531														
