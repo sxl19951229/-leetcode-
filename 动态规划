@@ -7,35 +7,46 @@
 
 4.子矩形： 85 221	304	 1277	 1727  1074  1504  
 
-5.正方形： 1139	Largest 1-Bordered Square	01正方形边界全为1	
-全为1的正方形  279	Perfect Squares  1388		1187
+5.正方形： 	
+全为1的正方形  221 1277
+正方形边界全为1  1139  
 
-6.由两边向中间 312	Burst Balloons	516 594 664	1024	1039	1140	1130
+6. 完全平方数  279   1388   1187
 
-7. 72	Edit Distance	★★★	10	44	97	115	583	I: O(m+n), S = O(mn), T = O(mn)
+7.由两边向中间 312	Burst Balloons	516 594 664	
+1024	1039	1140	1130   1000
+
+8. 72	Edit Distance	10	44	97	115	583
 			712	1187	1143	1092	718	
       
-8. 字符串的子序列：
+9. 字符串的子序列：
 115: s中包含t的子序列数目
 LCS: 1143  1092  718(最长相同子串)
 LIS: 300   1713  354(注意排序)  1048  673
 
-9.字符串decode  91	639	
+10.字符串decode  91	639	
 
-10.大问题转化为小问题 
+11.大问题转化为小问题 
 741采樱桃	486 1563	877/1406/1510
-936 打印string
+936 打印string    926  845 
 
-11.背包问题：322	Coin Change	377	416	494	1043	1049	
+12.背包问题：322	Coin Change	377	416	494	1043	1049	
 			       1220	1230	1262	1269		
 
-12. 不同次的路径数  688	Knight Probability in Chessboar  576	935	898	
+13. 不同次的路径数  688 Knight Probability in Chessboar  
+                   576	935	898	
 
+14. 子数组  53  Maximum Subarray   152	
+
+15. 在每个位置由有限个状态：
+801  790  926  818  1262 
+
+16. 同色消除  546  1263   488
 
 139	Word Break	★★★	140	818	
 96	Unique Binary Search Trees	★★★						
 1105	Filling Bookcase Shelves	
-131	Palindrome Partitioning	★★★	89	1458	730	
+131	Palindrome Partitioning		89	1458	730	
 
 
 交换使数组递增： 1187  801
@@ -43,32 +54,29 @@ LIS: 300   1713  354(注意排序)  1048  673
 1728：猫鼠游戏
 1735：n个数乘积为k的组合数
 
-
-
-
-53	Maximum Subarray	★★	152		
-
-			
+		
 丑数问题：1210	264	263	
 股票问题：121 188 122 123 309 714 	152		
 石头问题：877 1140 1406 1510 1563 1686 1690 
 抢劫问题：198 213 337      
 跳跃问题：45 55 403 975 1306 1340 1345 1654 1696 
 
-198	House Robber	★★★	213	309	740	790	801	
+213	309	740	
+	
 
 
 			
 96	Unique Binary Search Trees	★★★						
 1105	Filling Bookcase Shelves	★★★	
-131	Palindrome Partitioning	★★★	89	1458	730			I: O(n), S = O(2^n), T = O(2^n)
+131	Palindrome Partitioning	★★★	89	1458	730
 
 
 
 
-813	Largest Sum of Averages	★★★★	1278	1335	410	956		
-1223	Dice Roll Simulation	★★★★		1547				
-546	Remove Boxes	★★★★★	1263	推箱子	1000/312/488			
-943	Find the Shortest Superstring	★★★★★	980	996	1125 368  516
+813	Largest Sum of Averages	★★★★	1278	1335	410	956	
+
+1223	Dice Roll Simulation	★★★★	1547    	
+			
+943	Find the Shortest Superstring	980	996	1125 368  516
 								                
 1531														
