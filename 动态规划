@@ -45,6 +45,7 @@ LIS: 300   1713  354(注意排序)  1048  673
 16. 同色消除  546  1263   488
 
 17.字符串的匹配  10   44  87 scramble string
+97  字符的交错生成
 139	Word Break	★★★	140	818	
 96	Unique Binary Search Trees	★★★						
 1105	Filling Bookcase Shelves	
