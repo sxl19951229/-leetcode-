@@ -10,10 +10,10 @@
 239/918	1475	1425	1438	480/1499
 1493	896	1130	975			
 316   1081  利用单调栈得到字典序最小的
-
+402 删除一些保证最小
 
 单调队列
-402 删除一些保证最小
+
 1776 Car Fleet II
 1673 Find the Most Competitive Subsequence
 1671 Minimum Number of Removals to Make Mountain Array
