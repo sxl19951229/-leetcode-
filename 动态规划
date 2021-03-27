@@ -83,6 +83,9 @@ LIS: 300   1713  354(注意排序)  1048  673
 
 1223	Dice Roll Simulation	★★★★	1547    	
 			
-943	Find the Shortest Superstring	980	996	1125 368  516
-								                
-1531														
+943	Find the Shortest Superstring	980	996	1125 368  516							                
+1531	
+
+等差的子数组与子序列
+413  1630  等差子数组
+446  1027  等差子序列
