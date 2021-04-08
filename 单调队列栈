@@ -2,34 +2,38 @@
 
 
 单调栈
-901  各项前边比我小的
-907  统计所有子串的最小值和	
-1019  链表下一个更大的点
-739  日常温度
-918  最大子串和，对于环形数组
-1438 绝对差小于等于limit的最长子串
-1801  买卖操作的剩余数
-1499  方程的最大值 
-1493  一次删除后最长的全为1子串
-		
+896  单调数组     单调数组的性质
 
 单调队列
 
-1776 Car Fleet II
-1673 Find the Most Competitive Subsequence
-1671 Minimum Number of Removals to Make Mountain Array
-1475 Final Prices With a Special Discount in a Shop
-1425 Constrained Subsequence Sum
-1130 Minimum Cost Tree From Leaf Values
-975  奇偶跳跃
-907 Sum of Subarray Minimums
+
+
+1438 绝对差小于等于limit的最长子串  同时利用单调递增递减栈保留最大值最小值
+
+
+单调递减栈找后边第一个大于它的项
+1475 Final Prices With a Special Discount in a Shop  单调递增栈找下一个小的点
+1019  链表下一个更大的点
 901 Online Stock Span
-896  单调数组
-856 Score of Parentheses
-503 Next Greater Element II
+739  日常温度
+503 Next Greater Element II    环形数组
 496 Next Greater Element I
-456 132模式
+
+
+利用单调递增栈得到的结果尽可能小
+907 Sum of Subarray Minimums   单调递增栈找各项为最小值的左右长度
+1673 Find the Most Competitive Subsequence
 402 删除一些保证最小
 316   1081  利用单调栈得到字典序最小的
+
+应用，利用单调栈处理问题
+1130 Minimum Cost Tree From Leaf Values    单调递减栈每次取小的项，大的项后续求非叶子
+975  奇偶跳跃  利用单调递减栈 确定每次可以跳的位置
+456 132模式  
+
+1499  方程的最大值   保持窗口长度与栈的单调性
+1425 Constrained Subsequence Sum     距离为k的最大子序列
 239  滑动窗口最大值
+1776 Car Fleet II   数学问题转化为单调栈处理
+
 84 Largest Rectangle in Histogram
